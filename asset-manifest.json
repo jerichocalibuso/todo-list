@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jerichocalibuso/todo-list/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jerichocalibuso/todo-list/static/js/main.ea9e7474.chunk.js",
+    "main.js.map": "/jerichocalibuso/todo-list/static/js/main.ea9e7474.chunk.js.map",
+    "runtime-main.js": "/jerichocalibuso/todo-list/static/js/runtime-main.c413e709.js",
+    "runtime-main.js.map": "/jerichocalibuso/todo-list/static/js/runtime-main.c413e709.js.map",
+    "static/js/2.fc761930.chunk.js": "/jerichocalibuso/todo-list/static/js/2.fc761930.chunk.js",
+    "static/js/2.fc761930.chunk.js.map": "/jerichocalibuso/todo-list/static/js/2.fc761930.chunk.js.map",
+    "index.html": "/jerichocalibuso/todo-list/index.html",
+    "precache-manifest.72c4b3b1fb6ad2cd18cef75b82760c5f.js": "/jerichocalibuso/todo-list/precache-manifest.72c4b3b1fb6ad2cd18cef75b82760c5f.js",
+    "service-worker.js": "/jerichocalibuso/todo-list/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jerichocalibuso/todo-list/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fc761930.chunk.js.LICENSE.txt": "/jerichocalibuso/todo-list/static/js/2.fc761930.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c413e709.js",
+    "static/js/2.fc761930.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ea9e7474.chunk.js"
+  ]
+}
